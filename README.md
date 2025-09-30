@@ -67,6 +67,7 @@ This project analyzes the **Top 1000 IMDB-rated movies and shows** by leveraging
 
 Sesethu M. Bango
 Aspiring Data Scientist & Film Analytics Enthusiast
+
 📫 Connect on LinkedIn ([https://www.linkedin.com/in/sesethu-bango-197856380/])
 
 
