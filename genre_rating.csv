@@ -1,0 +1,176 @@
+Genre,Avg_IMDB_Rating
+"Action, Adventure",8.2
+"Action, Adventure, Comedy",7.8
+"Action, Adventure, Drama",8.2
+"Action, Adventure, Family",7.6
+"Action, Adventure, Fantasy",8.2
+"Action, Adventure, History",7.9
+"Action, Adventure, Horror",7.9
+"Action, Adventure, Mystery",7.6
+"Action, Adventure, Romance",7.9
+"Action, Adventure, Sci-Fi",7.9
+"Action, Adventure, Thriller",7.7
+"Action, Adventure, War",7.7
+"Action, Adventure, Western",7.8
+"Action, Biography, Crime",7.6
+"Action, Biography, Drama",7.8
+"Action, Comedy, Crime",7.9
+"Action, Comedy, Fantasy",7.8
+"Action, Comedy, Mystery",7.8
+"Action, Crime, Drama",7.8
+"Action, Crime, Mystery",7.6
+"Action, Crime, Thriller",7.8
+"Action, Drama",7.6
+"Action, Drama, History",7.8
+"Action, Drama, Mystery",8.0
+"Action, Drama, Sci-Fi",8.1
+"Action, Drama, Sport",8.2
+"Action, Drama, War",8.1
+"Action, Drama, Western",8.0
+"Action, Mystery, Thriller",7.9
+"Action, Sci-Fi",8.4
+"Action, Sci-Fi, Thriller",8.0
+"Action, Thriller",7.9
+"Adventure, Biography, Crime",7.8
+"Adventure, Biography, Drama",8.0
+"Adventure, Comedy, Crime",7.9
+"Adventure, Comedy, Drama",7.7
+"Adventure, Comedy, Family",7.7
+"Adventure, Comedy, Fantasy",7.9
+"Adventure, Comedy, Sci-Fi",8.2
+"Adventure, Comedy, War",7.6
+"Adventure, Drama",8.1
+"Adventure, Drama, Fantasy",7.9
+"Adventure, Drama, History",8.0
+"Adventure, Drama, Musical",8.1
+"Adventure, Drama, Romance",7.8
+"Adventure, Drama, Sci-Fi",8.2
+"Adventure, Drama, Thriller",8.0
+"Adventure, Drama, War",8.2
+"Adventure, Drama, Western",8.1
+"Adventure, Family, Fantasy",7.8
+"Adventure, Fantasy",7.8
+"Adventure, Horror, Sci-Fi",7.9
+"Adventure, Mystery, Thriller",8.3
+"Adventure, Sci-Fi",8.2
+"Adventure, Thriller",8.0
+"Animation, Action, Adventure",8.0
+"Animation, Action, Crime",8.0
+"Animation, Action, Fantasy",7.7
+"Animation, Adventure, Comedy",7.9
+"Animation, Adventure, Drama",8.1
+"Animation, Adventure, Family",8.0
+"Animation, Adventure, Fantasy",8.1
+"Animation, Biography, Crime",7.8
+"Animation, Biography, Drama",7.9
+"Animation, Comedy, Crime",7.6
+"Animation, Comedy, Drama",7.8
+"Animation, Comedy, Fantasy",7.7
+"Animation, Drama, Family",7.7
+"Animation, Drama, Fantasy",8.0
+"Animation, Drama, Romance",7.6
+"Animation, Family, Fantasy",7.9
+"Animation, Sci-Fi",7.8
+"Biography, Comedy, Drama",7.9
+"Biography, Crime, Drama",7.9
+"Biography, Drama",8.0
+"Biography, Drama, Family",7.8
+"Biography, Drama, History",8.0
+"Biography, Drama, Music",7.9
+"Biography, Drama, Romance",7.7
+"Biography, Drama, Sport",7.8
+"Biography, Drama, Thriller",7.8
+"Biography, Drama, War",7.9
+Comedy,7.8
+"Comedy, Crime",7.8
+"Comedy, Crime, Drama",7.9
+"Comedy, Crime, Romance",8.1
+"Comedy, Crime, Sport",8.1
+"Comedy, Drama",7.8
+"Comedy, Drama, Family",8.0
+"Comedy, Drama, Fantasy",7.8
+"Comedy, Drama, Music",7.9
+"Comedy, Drama, Musical",8.0
+"Comedy, Drama, Romance",7.9
+"Comedy, Drama, Thriller",8.1
+"Comedy, Drama, War",7.9
+"Comedy, Family",7.8
+"Comedy, Family, Fantasy",7.8
+"Comedy, Fantasy, Romance",7.8
+"Comedy, Horror",7.8
+"Comedy, Music",7.9
+"Comedy, Music, Musical",7.6
+"Comedy, Music, Romance",8.2
+"Comedy, Musical, Romance",8.3
+"Comedy, Mystery, Romance",7.9
+"Comedy, Romance",8.1
+"Comedy, Western",7.7
+"Crime, Drama",8.2
+"Crime, Drama, Fantasy",8.2
+"Crime, Drama, Film-Noir",8.1
+"Crime, Drama, History",7.8
+"Crime, Drama, Musical",8.0
+"Crime, Drama, Mystery",7.9
+"Crime, Drama, Romance",7.9
+"Crime, Drama, Sci-Fi",8.3
+"Crime, Drama, Thriller",7.9
+"Crime, Film-Noir, Thriller",7.9
+"Crime, Mystery, Thriller",8.5
+"Crime, Thriller",8.0
+Drama,7.9
+"Drama, Family",8.0
+"Drama, Family, Fantasy",7.7
+"Drama, Family, Musical",7.9
+"Drama, Family, Sport",8.2
+"Drama, Fantasy, Music",8.0
+"Drama, Fantasy, Mystery",7.6
+"Drama, Fantasy, Romance",7.9
+"Drama, Fantasy, War",8.2
+"Drama, Film-Noir",8.1
+"Drama, Film-Noir, Romance",7.9
+"Drama, History",8.0
+"Drama, History, Music",7.7
+"Drama, History, Mystery",7.8
+"Drama, History, Romance",8.1
+"Drama, History, Thriller",7.9
+"Drama, History, War",7.7
+"Drama, Horror",8.0
+"Drama, Horror, Mystery",7.7
+"Drama, Horror, Sci-Fi",7.7
+"Drama, Horror, Thriller",7.8
+"Drama, Music",8.0
+"Drama, Music, Musical",7.8
+"Drama, Music, Mystery",7.9
+"Drama, Music, Romance",7.8
+"Drama, Mystery",8.0
+"Drama, Mystery, Romance",8.0
+"Drama, Mystery, Sci-Fi",8.1
+"Drama, Mystery, Thriller",8.0
+"Drama, Mystery, War",8.4
+"Drama, Romance",7.9
+"Drama, Romance, Sci-Fi",8.2
+"Drama, Romance, Thriller",7.8
+"Drama, Romance, War",8.0
+"Drama, Sci-Fi",7.9
+"Drama, Sci-Fi, Thriller",7.7
+"Drama, Sport",7.9
+"Drama, Thriller",7.8
+"Drama, Thriller, War",8.0
+"Drama, Thriller, Western",7.9
+"Drama, War",8.1
+"Drama, War, Western",7.6
+"Drama, Western",8.1
+"Family, Fantasy, Musical",7.8
+"Family, Sci-Fi",7.8
+"Film-Noir, Mystery",8.0
+"Film-Noir, Mystery, Thriller",8.1
+Horror,7.9
+"Horror, Mystery, Sci-Fi",8.1
+"Horror, Mystery, Thriller",7.8
+"Horror, Sci-Fi",8.4
+"Horror, Thriller",7.8
+"Mystery, Romance, Thriller",8.3
+"Mystery, Sci-Fi, Thriller",7.8
+"Mystery, Thriller",8.2
+Thriller,7.8
+Western,8.4
